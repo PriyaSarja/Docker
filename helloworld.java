@@ -1,6 +1,5 @@
-public class Fibonacci {                
-    public static void main(String[] args) {                
-        int n = 10, t1 = 0, t2 = 1;                
+public class helloworld{                
+    public static void main(String[] args) {                              
         System.out.print("Hello World!");                
                       
     }                
